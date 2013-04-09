@@ -1,5 +1,5 @@
-interview_questions_for_employers
-=================================
+interview_questions
+===================
 
 ## Why?
 
@@ -35,14 +35,12 @@ __Wish you would have interviewed your job prospects a little more?__
 ### Team/Culture Dynamics
 1. What do your developers complain about the most? Why? What are they doing to fix said issues?
 2. What work did your team do to increase revenue in the last 3 months?
-3. What time is standup?
+3. Do you do a 'stand up'? Time? Who's there?
 4. Please describe the last time a developer disgreed with you. What was the outcome?
 
 
 ### Talent Questions
-1. (Assuming HR/Manager states they are looking for 
-Ruby/Javascript/etc master) What is the current level of 
-mastery for each team member? How are they progressing?
+1. (Assuming HR/Manager states they are looking for Ruby/Javascript/etc master) What is the current level ofmastery for each team member?
 
 ### Code Quality
 1. What are the __most beautiful__ parts of the codebase? Why?
