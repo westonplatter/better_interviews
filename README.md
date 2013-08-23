@@ -1,36 +1,30 @@
-interview_questions
-===================
+better_interviews
+=================
 
-## Why?
-
-### TL;DR
-Questions to probe quality of future job prospects.
-
-### Story
 While fixing bugs and browsing solutions on stackoverflow.com, you see 
 an interesting job. You read the description, and the gig seems way
-more execiting that fixing the 20 bugs in your work que.
+more execiting than fixing the 20 bugs in your work que.
 
 You apply for the job, and have a phone screen with HR. The 
 enthusiastic HR recruiter describes, 
-- the amazing team you will be placed on  
-- the emphasis on giving back to Open Source  
+- an amazing in-house team  
+- importance of giving back to Open Source  
 - your value to the company because of your work with XYZ  
 
-After the phone screen, you easily move to an in person interview 
+After the phone screen, you easily move on to an person tech interview 
 with your future manager, and things really click. You get an offer
-that is competitive with your current position, and take the new gig.
+that is competitive with your current position, and you take the new gig.
 
 2 months into the new job, you look back on the HR promises and the 
 great conversation with your now manager with regret, 
-- my team members seem to have changed
-- I am not contributing to OpenSource
-- I am working on what I was hired to do
+- team members aren't what they were advertized as
+- OpenSource involvement is valued, but no resources are given to it
+- your boss chose a different technology, and your XYZ skills are left behind
 
 __Wish you would have interviewed your job prospects a little more?__
 
 
-## Wecome to Interview Questions for Employers
+## Wecome to Better Interviews
 
 ### Team/Culture Dynamics
 1. What do your developers complain about the most? Why? What are they doing to fix said issues?
